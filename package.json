@@ -1,5 +1,5 @@
 {
-  "name": "vue-konva-primitives",
+  "name": "typepad-v2",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "mobx": "^6.6.1",
     "vue": "^3.2.25"
   },
   "devDependencies": {
